@@ -1,0 +1,12 @@
+Jul 29 08:00:01 web01 sshd[1101]: Accepted publickey for deploy from 198.51.100.7 port 52110 ssh2
+Jul 29 08:00:30 web01 sshd[1102]: Failed password for invalid user admin from 203.0.113.5 port 42101 ssh2
+Jul 29 08:00:31 web01 sshd[1103]: Failed password for invalid user admin from 203.0.113.5 port 42102 ssh2
+Jul 29 08:00:32 web01 sshd[1104]: Failed password for invalid user root from 203.0.113.5 port 42103 ssh2
+Jul 29 08:00:33 web01 sshd[1105]: Failed password for invalid user root from 203.0.113.5 port 42104 ssh2
+Jul 29 08:00:34 web01 sshd[1106]: Failed password for invalid user admin from 203.0.113.5 port 42105 ssh2
+Jul 29 08:00:35 web01 sshd[1107]: Failed password for invalid user admin from 203.0.113.5 port 42106 ssh2
+Jul 29 08:00:36 web01 sshd[1108]: Failed password for invalid user oracle from 203.0.113.5 port 42107 ssh2
+Jul 29 08:00:37 web01 sshd[1109]: Failed password for invalid user guest from 203.0.113.5 port 42108 ssh2
+Jul 29 08:01:00 web01 sshd[1110]: Accepted password for deploy from 198.51.100.7 port 52111 ssh2
+Jul 29 08:01:05 web01 sshd[1111]: Failed password for admin from 198.51.100.99 port 43101 ssh2
+Jul 29 08:02:00 web01 sshd[1112]: Accepted publickey for deploy from 198.51.100.7 port 52112 ssh2
