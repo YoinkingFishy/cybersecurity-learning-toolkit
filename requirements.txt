@@ -1,0 +1,5 @@
+# Runtime dependencies
+#
+# This project deliberately uses only Python's standard library.
+# No third-party packages are required to run any of the tools.
+# Development-only dependencies live in requirements-dev.txt.

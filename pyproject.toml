@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cybersecurity-learning-toolkit"
+version = "1.0.0"
+description = "Educational Python toolkit: TCP port scanner, log analyzer, file integrity checker, and CTF write-up templates."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Mehul Wagde" }]
+keywords = ["security", "education", "port-scanner", "log-analysis", "hash", "ctf"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Security",
+    "Intended Audience :: Education",
+]
+
+[tool.setuptools]
+packages = ["port_scanner", "log_analyzer", "file_integrity"]

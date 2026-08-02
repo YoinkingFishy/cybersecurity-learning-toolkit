@@ -1,0 +1,8 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "config.ini": "5d41402abc4b2a76b9719d911017c592e5d41402abc4b2a76b9719d911017c592",
+    "backup.db": "e1f6985d96ce3b4e0b2f4c7a0d6f7c1b8a2d3f4c5b6a7c8d9e0f1a2b3c4d5e6f7",
+    "notes.txt": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+  }
+}
