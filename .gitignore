@@ -1,28 +1,7 @@
-# Virtual environments
 .venv/
-venv/
-env/
-ENV/
-
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-
-# Secrets — never commit these
-.env
-.env.*
-*.pem
-*.key
-
-# Logs (sample logs in examples/ are tracked intentionally)
-*.log
-
-# Editors / OS
+*.pyc
+.env*
 .vscode/
 .idea/
 .DS_Store
-Thumbs.db
